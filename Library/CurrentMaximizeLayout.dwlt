@@ -22,9 +22,9 @@ MonoBehaviour:
     width: 1536
     height: 723
   m_MinSize: {x: 1156, y: 458}
-  m_MaxSize: {x: 12003, y: 8042}
+  m_MaxSize: {x: 12002, y: 8042}
   vertical: 0
-  controlID: 148
+  controlID: 124
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,9 +139,9 @@ MonoBehaviour:
     width: 1202
     height: 723
   m_MinSize: {x: 881, y: 458}
-  m_MaxSize: {x: 8003, y: 8042}
+  m_MaxSize: {x: 8002, y: 8042}
   vertical: 1
-  controlID: 101
+  controlID: 77
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,10 +163,10 @@ MonoBehaviour:
     y: 0
     width: 1202
     height: 452
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 76
+  controlID: 57
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: 32fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 865
     height: 452
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -314,9 +314,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 28.397272, y: -21.73225, z: -119.55859}
+    m_Target: {x: -90.55322, y: -8.057206, z: 38.67338}
     speed: 2
-    m_Value: {x: 28.397272, y: -21.73225, z: -119.55859}
+    m_Value: {x: -90.55322, y: -8.057206, z: 38.67338}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -362,9 +362,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.008101507, y: -0.9914872, z: 0.10541802, w: -0.07935688}
+    m_Target: {x: -0.03808279, y: 0.53067225, z: -0.023399541, w: -0.84670734}
     speed: 2
-    m_Value: {x: -0.008099389, y: -0.99122804, z: 0.10539047, w: -0.07933614}
+    m_Value: {x: -0.03807281, y: 0.5305332, z: -0.02339341, w: -0.84648544}
   m_Size:
     m_Target: 56.50745
     speed: 2
@@ -932,7 +932,7 @@ MonoBehaviour:
     height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_VertSplit:
-    ID: 118
+    ID: 94
     splitterInitialOffset: 148
     currentActiveSplitter: -1
     realSizes: 8100000064000000
