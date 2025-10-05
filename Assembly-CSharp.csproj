@@ -36,42 +36,23 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Retro 3D Shader Pack for Unity\Shaders\Post-Processing\RetroPostProcessEffect.cs" />
-     <Compile Include="Assets\bixoAndante.cs" />
-     <Compile Include="Assets\cam\movimentoMonito.cs" />
-     <Compile Include="Assets\checkMia.cs" />
-     <Compile Include="Assets\emiTeste\emiAtaque.cs" />
-     <Compile Include="Assets\golden\golden.cs" />
-     <Compile Include="Assets\scripts\Enteragir.cs" />
-     <Compile Include="Assets\scripts\Flash.cs" />
-     <Compile Include="Assets\scripts\GameManager.cs" />
-     <Compile Include="Assets\scripts\Jigglebone.cs" />
-     <Compile Include="Assets\scripts\MaoScrip.cs" />
-     <Compile Include="Assets\scripts\MouseLook.cs" />
-     <Compile Include="Assets\scripts\PlayerMove.cs" />
-     <Compile Include="Assets\scripts\PlayerMoveNew.cs" />
-     <Compile Include="Assets\scripts\SpringBone.cs" />
-     <Compile Include="Assets\scripts\SpringCollider.cs" />
-     <Compile Include="Assets\scripts\SpringManager.cs" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\CG_Includes\RetroFlatLit.cginc" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroVertexLit.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\CG_Includes\RetroUnityLit.cginc" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\Sprite Shaders\RetroSpriteUnlit.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroFlatLitTransparent.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroUnityLitTransparent.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\README.txt" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroUnlitTransparent.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\Sprite Shaders\RetroSpriteLit.shader" />
-     <None Include="Assets\shaders\ToonShade.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroUnlit.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroFlatLit.shader" />
-     <None Include="Assets\shaders\NewSurfaceShader.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\CG_Includes\RetroUnlit.cginc" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroUnityLit.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\Post-Processing\Resources\RetroPostProcess.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\Post-Processing\Resources\Resources File Explanation.txt" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\RetroVertexLitTransparent.shader" />
-     <None Include="Assets\Retro 3D Shader Pack for Unity\Shaders\CG_Includes\RetroVertexLit.cginc" />
+     <Compile Include="Assets\Scripts\EmiScripts\bixoAndante.cs" />
+     <Compile Include="Assets\Scripts\EmiScripts\checkMia.cs" />
+     <Compile Include="Assets\Scripts\EmiScripts\emiAtaque.cs" />
+     <Compile Include="Assets\Scripts\FadeDelete.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\MenuManager.cs" />
+     <Compile Include="Assets\Scripts\Player\Enteragir.cs" />
+     <Compile Include="Assets\Scripts\Player\Flash.cs" />
+     <Compile Include="Assets\Scripts\Player\MaoScrip.cs" />
+     <Compile Include="Assets\Scripts\Player\MouseLook.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerMoveNew.cs" />
+     <Compile Include="Assets\Scripts\QuitadorDeCena.cs" />
+     <Compile Include="Assets\Scripts\golden.cs" />
+     <Compile Include="Assets\Scripts\movimentoMonito.cs" />
+     <None Include="Assets\Shaders\ToonShade.shader" />
+     <None Include="Assets\Shaders\NewSurfaceShader.shader" />
     <Reference Include="UnityEngine">
         <HintPath>D:\arquivos\Esse PC\Programas\Unity Editors\2019.4.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

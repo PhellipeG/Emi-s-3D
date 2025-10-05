@@ -37,6 +37,13 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Editor\RetroFlatLitShaderCustomGUI.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Editor\RetroUnityLitShaderCustomGUI.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Editor\RetroUnlitShaderCustomGUI.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Editor\RetroVertexLitShaderCustomGUI.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Post-Processing\Editor\RetroPostProcessEditor.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Sprite Shaders\Editor\RetroSpriteLitShaderCustomGUI.cs" />
+     <Compile Include="Assets\Standard Assets\Retro 3D Shader Pack for Unity\Shaders\Sprite Shaders\Editor\RetroSpriteUnlitShaderCustomGUI.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\arquivos\Esse PC\Programas\Unity Editors\2019.4.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
